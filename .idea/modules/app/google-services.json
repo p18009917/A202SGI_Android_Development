@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "324779715231",
+    "firebase_url": "https://expensetracker-535b1-default-rtdb.firebaseio.com",
+    "project_id": "expensetracker-535b1",
+    "storage_bucket": "expensetracker-535b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324779715231:android:1a41e85f2a8c0255d490aa",
+        "android_client_info": {
+          "package_name": "com.example.expensestracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324779715231-mac23g2vdq98bta7ktddug66h85t49v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensestracker",
+            "certificate_hash": "8c0dc4d21ed45e7bad4932cd53b14b51be4b36dc"
+          }
+        },
+        {
+          "client_id": "324779715231-0v3ifpb0netsfanrpb28bppuft7op77s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxFPwdRe2OUaKlbVzcKo2EEFxCGj5gZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324779715231-0v3ifpb0netsfanrpb28bppuft7op77s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324779715231:android:62c8910177150c6ed490aa",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324779715231-4bldmlvk84nsah89h24oa4l8av8too09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensetracker",
+            "certificate_hash": "8c0dc4d21ed45e7bad4932cd53b14b51be4b36dc"
+          }
+        },
+        {
+          "client_id": "324779715231-0v3ifpb0netsfanrpb28bppuft7op77s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxFPwdRe2OUaKlbVzcKo2EEFxCGj5gZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324779715231-0v3ifpb0netsfanrpb28bppuft7op77s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
